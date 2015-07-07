@@ -1,0 +1,7 @@
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.UnitTests\bin\Debug\ECD.UnitTests.dll
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.UnitTests\bin\Debug\ECD.UnitTests.pdb
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.UnitTests\bin\Debug\ECD.Core.dll
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.UnitTests\bin\Debug\ECD.Core.pdb
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.UnitTests\obj\Debug\ECD.UnitTests.csprojResolveAssemblyReference.cache
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.UnitTests\obj\Debug\ECD.UnitTests.dll
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.UnitTests\obj\Debug\ECD.UnitTests.pdb

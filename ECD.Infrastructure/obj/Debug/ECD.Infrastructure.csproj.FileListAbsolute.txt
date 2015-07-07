@@ -1,0 +1,9 @@
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.Infrastructure\bin\Debug\ECD.Infrastructure.dll
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.Infrastructure\bin\Debug\ECD.Infrastructure.pdb
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.Infrastructure\bin\Debug\ECD.Core.dll
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.Infrastructure\bin\Debug\ECD.Core.pdb
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.Infrastructure\obj\Debug\ECD.Infrastructure.csprojResolveAssemblyReference.cache
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.Infrastructure\obj\Debug\ECD.Infrastructure.dll
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.Infrastructure\obj\Debug\ECD.Infrastructure.pdb
+C:\Users\kmoloke\Documents\Visual Studio 2013\Projects\ECD\ECD.Infrastructure\bin\Debug\ECD.Data.dll
+C:\Users\kmoloke\Documents\Visual Studio 2013\Projects\ECD\ECD.Infrastructure\bin\Debug\ECD.Data.pdb

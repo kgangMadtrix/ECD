@@ -1,0 +1,9 @@
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.IntergrationTests\bin\Debug\ECD.IntergrationTests.dll
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.IntergrationTests\bin\Debug\ECD.IntergrationTests.pdb
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.IntergrationTests\bin\Debug\ECD.Core.dll
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.IntergrationTests\bin\Debug\ECD.Infrastructure.dll
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.IntergrationTests\bin\Debug\ECD.Core.pdb
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.IntergrationTests\bin\Debug\ECD.Infrastructure.pdb
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.IntergrationTests\obj\Debug\ECD.IntergrationTests.csprojResolveAssemblyReference.cache
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.IntergrationTests\obj\Debug\ECD.IntergrationTests.dll
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.IntergrationTests\obj\Debug\ECD.IntergrationTests.pdb

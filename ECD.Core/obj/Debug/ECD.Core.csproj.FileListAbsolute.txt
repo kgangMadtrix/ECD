@@ -1,0 +1,5 @@
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.Core\bin\Debug\ECD.Core.dll
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.Core\bin\Debug\ECD.Core.pdb
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.Core\obj\Debug\ECD.Core.csprojResolveAssemblyReference.cache
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.Core\obj\Debug\ECD.Core.dll
+c:\users\kmoloke\documents\visual studio 2013\Projects\ECD\ECD.Core\obj\Debug\ECD.Core.pdb

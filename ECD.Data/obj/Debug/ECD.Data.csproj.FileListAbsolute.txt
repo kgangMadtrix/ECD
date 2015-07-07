@@ -1,0 +1,7 @@
+C:\Users\kmoloke\Documents\Visual Studio 2013\Projects\ECD\ECD.Data\bin\Debug\ECD.Data.dll
+C:\Users\kmoloke\Documents\Visual Studio 2013\Projects\ECD\ECD.Data\bin\Debug\ECD.Data.pdb
+C:\Users\kmoloke\Documents\Visual Studio 2013\Projects\ECD\ECD.Data\bin\Debug\ECD.Core.dll
+C:\Users\kmoloke\Documents\Visual Studio 2013\Projects\ECD\ECD.Data\bin\Debug\ECD.Core.pdb
+C:\Users\kmoloke\Documents\Visual Studio 2013\Projects\ECD\ECD.Data\obj\Debug\ECD.Data.csprojResolveAssemblyReference.cache
+C:\Users\kmoloke\Documents\Visual Studio 2013\Projects\ECD\ECD.Data\obj\Debug\ECD.Data.dll
+C:\Users\kmoloke\Documents\Visual Studio 2013\Projects\ECD\ECD.Data\obj\Debug\ECD.Data.pdb
