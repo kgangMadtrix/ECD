@@ -1,0 +1,7 @@
+update-database -configuration ECD.Data.HRDataContextMigrations.Configuration -startupproject ECD.WebUI -project ECD.Data -force
+enable-migrations -ContextTypeName ECD.Data.ECDDatabase -MigrationsDirectory:Migrations -force
+
+update-database -startupproject ECD.WebUI -project ECD.Data -force
+
+different namespace for each context
+eg: ECD.Data.HR

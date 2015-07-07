@@ -55,11 +55,16 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Core\" />
+    <Folder Include="HR\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ECD.Core\ECD.Core.csproj">
       <Project>{a3f6c488-28fc-4e8f-8c8e-319c27d6f0ef}</Project>
       <Name>ECD.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ECD.HumanResources\ECD.HumanResources.csproj">
+      <Project>{5bad9ed5-6333-458c-b832-40c93edeabff}</Project>
+      <Name>ECD.HumanResources</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
